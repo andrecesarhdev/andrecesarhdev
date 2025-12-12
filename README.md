@@ -20,6 +20,6 @@ Estudante de Desenvolvimento Full Stack com foco em JavaScript, Node.js, NestJS 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/andrecesarhdev"><img src="https://github-readme-stats.vercel.app/api?username=andrecesarhdev&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="andrecesarhdev's GitHub stats" /></a>
+<a href="http://www.github.com/andrecesarhdev"><img src="https://github-readme-stats.vercel.app/api?username=andrecesarhdev&show_icons=true&hide=stars,prs,issues,contribs&title_color=64748b&text_color=f97316&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="andrecesarhdev's GitHub stats" /></a>
 
-<a href="https://github.com/andrecesarhdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecesarhdev&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/andrecesarhdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecesarhdev&langs_count=10&title_color=64748b&text_color=f97316&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
