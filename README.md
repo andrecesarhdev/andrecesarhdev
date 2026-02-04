@@ -88,14 +88,16 @@ Estudante de Desenvolvimento Full Stack com foco em JavaScript, Node.js, NestJS 
 
 **My GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrecesarhdev&show_icons=true&hide=stars,prs,issues,contribs&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrecesarhdev&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecesarhdev&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecesarhdev&layout=compact&theme=dark&cache_seconds=1800)
+
 
 ---
 
 ### Top Repositories
 
-[![CRM Backend](https://github-readme-stats.vercel.app/api/pin/?username=andrecesarhdev&repo=crm-backend-nestjs&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true)](https://github.com/andrecesarhdev/crm-backend-nestjs)
+[![CRM Backend](https://github-readme-stats.vercel.app/api/pin/?username=andrecesarhdev&repo=crm-backend-nestjs&theme=dark&cache_seconds=1800)](https://github.com/andrecesarhdev/crm-backend-nestjs)
 
-[![Blog Pessoal](https://github-readme-stats.vercel.app/api/pin/?username=andrecesarhdev&repo=Projeto-blogpessoal&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true)](https://github.com/andrecesarhdev/Projeto-blogpessoal)
+[![Blog Pessoal](https://github-readme-stats.vercel.app/api/pin/?username=andrecesarhdev&repo=Projeto-blogpessoal&theme=dark&cache_seconds=1800)](https://github.com/andrecesarhdev/Projeto-blogpessoal)
+
