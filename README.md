@@ -1,103 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is André César
-====================================================================================================================================
+# Olá, eu sou o André César 👋
 
-Dev Full Stack
---------------
+**Desenvolvedor Full Stack Jr** com foco em TypeScript, Node.js/NestJS e React, em Recife.
 
-Estudante de Desenvolvimento Full Stack com foco em JavaScript, Node.js, NestJS e TypeScript. Busco construir bases sólidas através de projetos práticos, boas práticas e conceitos fundamentais de arquitetura de software. Acredito na evolução constante e no poder do aprendizado ativo para crescer como desenvolvedor.
+Gosto de construir soluções para problemas reais, com código organizado, testes automatizados e deploy contínuo. Tenho formação Full Stack JavaScript pela Generation Brasil e atualmente estudo DevOps pela FAP/Aponti, no Porto Digital.
 
-* 🌍  I'm based in Brasil  
-* ✉️  You can contact me at [andrecesarhenrique@gmail.com](mailto:andrecesarhenrique@gmail.com)
+## 🛠️ Stack
 
----
+[![Stack](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,tailwind,postgres,mysql,prisma,docker,githubactions,linux,git,jest,python)](https://skillicons.dev)
 
-### Skills
+## 🚀 Projetos em destaque
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" height="36" alt="Spring Boot" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-</a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-</a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-</a>
-</p>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Gestor Financeiro** · [API](https://github.com/andrecesarhdev/gestor-financeiro-backend) · [Frontend](https://github.com/andrecesarhdev/gestor-financeiro-frontend) | Aplicação full stack de finanças pessoais em produção, com dashboard, testes automatizados e CI/CD | NestJS, PostgreSQL, Prisma, React, Docker |
+| **[CRM API](https://github.com/andrecesarhdev/crm-backend-nestjs)** | API de CRM com autenticação JWT e controle de acesso por perfil | NestJS, TypeORM, MySQL |
+| **[Sistema Biblioteca](https://github.com/andrecesarhdev/sistema-biblioteca)** | Projeto em equipe com pipelines de CI/CD no GitHub Actions e no GitLab CI | Python, Docker, unittest |
 
----
+## 📫 Contato
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/andrecesarhdev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/andrecesar-dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="https://discord.com/users/AndreCesarDev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-</a>
-</p>
-
-![Followers](https://img.shields.io/github/followers/andrecesarhdev?logo=github&style=for-the-badge&color=facc15&labelColor=000000)
-
----
-
-### Badges
-
-**My GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrecesarhdev&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecesarhdev&layout=compact&theme=dark&cache_seconds=1800)
-
-
----
-
-### Top Repositories
-
-[![CRM Backend](https://github-readme-stats.vercel.app/api/pin/?username=andrecesarhdev&repo=crm-backend-nestjs&theme=dark&cache_seconds=1800)](https://github.com/andrecesarhdev/crm-backend-nestjs)
-
-[![Blog Pessoal](https://github-readme-stats.vercel.app/api/pin/?username=andrecesarhdev&repo=Projeto-blogpessoal&theme=dark&cache_seconds=1800)](https://github.com/andrecesarhdev/Projeto-blogpessoal)
-
+- **Portfólio:** [andrecesar-dev.vercel.app](https://andrecesar-dev.vercel.app)
+- **LinkedIn:** [linkedin.com/in/andrecesar-dev](https://www.linkedin.com/in/andrecesar-dev/)
+- **E-mail:** andrecesarprogramador@gmail.com
